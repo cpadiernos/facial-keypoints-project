@@ -1,6 +1,22 @@
 [//]: # (Image References)
 
 [image1]: ./images/obamas_with_keypoints.png "Facial Keypoint Detection"
+## Introduction
+
+This project was one I did for my Udacity Artificial Intelligence and Specializations Nanodegree. Their instructions are given below following "Project Overview".
+
+To view my completed project, instead of Step 1 in their instructions, do the following:
+
+1. Clone the repository and navigate to the downloaded folder.
+```	
+git clone https://github.com/cpadiernos/facial-keypoints-project.git
+cd dog-project
+```
+
+and then continue as normal with the remaining steps.
+
+I've also included an [HTML](https://rawgit.com/cpadiernos/facial-keypoints-project/master/CV_project.html) for easy viewing.
+
 
 # AIND Term II, Computer Vision Capstone Project 
 # Facial Keypoint Detection and Real-time Filtering
